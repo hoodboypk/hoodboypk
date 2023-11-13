@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Pratik and i drive.<br><br>
+I drive.<br><br>
 
 
 ## 🌐 Socials:
