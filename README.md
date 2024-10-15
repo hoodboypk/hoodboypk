@@ -1,6 +1,8 @@
 # 💫 About Me:
 I drive.<br><br>
 
+![ryan-gosling](https://github.com/user-attachments/assets/336ea987-0cbf-4308-bebe-91a3e6f6b344)
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/xxibpdragon) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hoodboypk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pratik-kumar-a61a46271/) 
 
